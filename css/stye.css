@@ -1,1 +1,108 @@
+body {
+  background-color: rgb(196, 142, 159);
+  background-size: 100%;
+  color: whitesmoke;
+  font-style: italic;
+}
+header,
+h1 {
+  background-color: rgb(255, 0, 162);
+  height: 100px;
+  font-size: 70px;
+  color: whitesmoke;
+  font-weight: 600;
+  background-clip: text;
+}
+
+article {
+  font: icon;
+  font-size: x-large;
+  text-decoration: underline overline;
+}
+aside {
+  background-color: rgb(255, 0, 162);
+  font-size: larger;
+  color: whitesmoke;
+  padding: 60px;
+  width: 600px;
+  float: right;
+  border-radius: 40px;
+}
+
+table,
+th,
+td,
+tr {
+  border: 10px solid black;
+}
+
+tr.a {
+  background-color: rgb(176, 54, 153);
+}
+tr.b {
+  background-color: rgb(239, 21, 126);
+}
+tr.c {
+  background-color: rgb(235, 93, 237);
+}
+tr.d {
+  background-color: rgb(230, 34, 194);
+}
+td {
+  width: 60px;
+  height: 60px;
+  border: 3px solid #333;
+}
+td.v {
+  background-color: rgb(245, 64, 188);
+}
+td.q {
+  background-color: rgb(150, 7, 107);
+}
+td.a {
+  background-color: rgb(255, 0, 132);
+}
+td.b {
+  background-color: rgb(255, 0, 238);
+}
+td.c {
+  background-color: rgb(186, 95, 136);
+}
+td.e {
+  background-color: rgb(164, 54, 113);
+}
+td.f {
+  background-color: rgb(226, 153, 208);
+}
+td.g {
+  background-color: rgb(102, 9, 51);
+}
+td.h {
+  background-color: rgb(233, 87, 221);
+}
+td.m {
+  background-color: rgb(240, 12, 190);
+}
+td.l {
+  background-color: rgb(163, 66, 130);
+}
+td.n {
+  background-color: rgb(158, 94, 129);
+}
+td.o {
+  background-color: rgb(255, 196, 245);
+}
+td.p {
+  background-color: rgb(111, 16, 111);
+}
+
+td.z {
+  background-color: rgb(242, 32, 210);
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: rgb(255, 0, 162);
+  color: whitesmoke;
+}
 
